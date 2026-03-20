@@ -1,43 +1,37 @@
 # Hi, I'm Yang Mingtian
 
-Backend / Full-Stack Intern Candidate  
+后端 / 全栈方向实习求职中  
 Java / Spring Boot / Vue / PostgreSQL  
-Focused on engineering implementation, project delivery, and clear system boundaries.
+关注工程实现、项目交付与系统边界表达。
 
-## About Me
+## 关于我
 
-- Computer Science student at Chongqing University of Posts and Telecommunications
-- Interested in backend engineering, full-stack delivery, and product-minded development
-- I value readable architecture, practical implementation, and honest project scope
+- 重庆邮电大学计算机专业学生
+- 目标方向：Backend / Full-Stack Engineer
+- 希望把项目做成“能运行、能说明、能深挖”的工程作品
 
-## Tech Stack
+## 技术栈
 
-- Backend: Java, Spring Boot, Spring MVC, MyBatis, PostgreSQL, Redis
-- Frontend: Vue 3, TypeScript, DashScope API integration
-- Engineering: Git, GitHub, RESTful API design, project documentation, demo packaging
+- Backend：Java、Spring Boot、Spring MVC、MyBatis、PostgreSQL、Redis
+- Frontend：Vue 3、TypeScript
+- Engineering：Git、GitHub、RESTful API design、项目文档整理、Demo packaging
 
-## Featured Projects
+## 主打项目
 
 ### [rag-nexus](https://github.com/Yorushikamimimi/rag-nexus)
-A lightweight RAG knowledge retrieval project based on Spring AI, pgvector, Vue 3, and DashScope.  
-Focus: retrieval pipeline design, failure cases, and project explainability.
+基于 Spring AI、pgvector、Vue 3 与 DashScope 的轻量级 RAG 知识检索项目。  
+重点在检索链路设计、failure cases 梳理与项目可解释性表达。
 
 ### [nautilus-clinic](https://github.com/Yorushikamimimi/nautilus-clinic)
-A clinic appointment management system built with Spring Boot, Vue, and PostgreSQL.  
-Focus: RBAC, appointment workflow, and practical full-stack delivery.
+基于 Spring Boot、Vue、PostgreSQL 的门诊管理系统。  
+重点在 RBAC、预约流程管理与全栈交付能力。
 
 ### [nautilus-media-cloud](https://github.com/Yorushikamimimi/nautilus-media-cloud)
-A media task scheduling project with Spring Boot admin panel and Python worker integration.  
-Focus: task orchestration, async processing, and system coordination.
+包含 Spring Boot 管理端与 Python Worker 的媒体任务调度项目。  
+重点在任务编排、异步处理与系统协同。
 
-## What I Care About
+## 我关注什么
 
-- Building projects that are not only runnable, but also explainable
-- Making technical trade-offs explicit instead of overstating capabilities
-- Turning student projects into reviewable engineering artifacts
-
-## Links
-
-- GitHub: https://github.com/Yorushikamimimi
-- Resume: coming soon
-- Portfolio: coming soon
+- 不只把项目做成“能跑”，也要做到“能讲清楚”
+- 重视 trade-off、边界说明和工程可读性
+- 希望把学生项目打磨成可审阅、可面试深挖的作品

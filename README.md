@@ -12,9 +12,9 @@ Java / Spring Boot / Vue / PostgreSQL
 
 ## 技术栈
 
-- Backend：Java、Spring Boot、Spring MVC、MyBatis、PostgreSQL、Redis
+- Backend：Java, Spring Boot, Spring MVC, MyBatis, PostgreSQL, Redis
 - Frontend：Vue 3、TypeScript
-- Engineering：Git、GitHub、RESTful API design、项目文档整理、Demo packaging
+- Engineering：Docker, Linux, Git, REST API Design
 
 ## 主打项目
 

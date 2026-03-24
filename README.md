@@ -30,6 +30,10 @@ Java / Spring Boot / Vue / PostgreSQL
 包含 Spring Boot 管理端与 Python Worker 的媒体任务调度项目。  
 重点在任务编排、异步处理与系统协同。
 
+### [My-Knowledge-Base](https://github.com/Yorushikamimimi/My-Knowledge-Base)
+基于 Spring Boot + React/Vite + Dify 的 AI 知识库问答平台。
+重点在文档上传、OCR 入库、检索问答与完整部署闭环。
+
 ## 我关注什么
 
 - 不只把项目做成“能跑”，也要做到“能讲清楚”

@@ -34,7 +34,7 @@ SlotFlow 已完成本地业务验证与隔离云端后端的小规模验证，�
 |---|---|
 | [rag-nexus](https://github.com/Yorushikamimimi/rag-nexus) | Spring AI + pgvector 全栈 RAG 原型，包含多源注入、向量召回、SSE 流式问答与来源展示 |
 | [nautilus-media-cloud](https://github.com/Yorushikamimimi/nautilus-media-cloud) | PostgreSQL `SKIP LOCKED` Pull 型异步任务调度，包含 Spring Boot 控制面与 Python Worker |
-| [My Knowledge Base](https://github.com/Yorushikamimimi/My-Knowledge-Base) | 早期 Dify 知识库版本；后续本地 RAG 演进与验证边界见[作品集说明](https://yoruming.cn/projects/my-knowledge-base) |
+| [My Knowledge Base](https://github.com/Yorushikamimimi/My-Knowledge-Base) | Java + Python 的本地 RAG 知识库工程，覆盖文档上传、向量入库、问答与来源展示；验证边界见[作品集说明](https://yoruming.cn/projects/my-knowledge-base) |
 
 ## 技术关键词
 

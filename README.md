@@ -9,7 +9,7 @@
 | [codex-thread-handoff](https://github.com/Yorushikamimimi/codex-thread-handoff) | 帮助长对话从文件恢复上下文，核对接手情况后继续工作 |
 | [Sunge](https://github.com/Yorushikamimimi/Sunge) | 用 Markdown / Obsidian 保存个人记录和目标，让 AI 对话从文件接续上下文的非官方框架 |
 | [ai-context-vault](https://github.com/Yorushikamimimi/ai-context-vault) | 给 Obsidian 和 AI 助手用的个人上下文档案模板，按任务提供必要信息 |
-| 文件整理助手（私有） | macOS 文件预览、确认整理与撤销，依赖本机 Python / Tk |
+| [文件整理助手](https://github.com/Yorushikamimimi/doc-selecter) | macOS 文件预览、确认整理与撤销，依赖本机 Python / Tk |
 
 ## 个人项目
 
